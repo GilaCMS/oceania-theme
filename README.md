@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/package-json/v/gilacms/limon-theme.svg">
+<img src="https://img.shields.io/github/package-json/v/gilacms/oceania-theme.svg">
 
-# limon-theme
+# Oceania theme
 A blog theme for Gila CMS
