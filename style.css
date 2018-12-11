@@ -1,0 +1,58 @@
+body{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}
+.page-title{font-size:2em;background: var(--main-primary-color);color:white;padding:10px}
+.page-title, .post-title, .post-review--title, .widget-title, .mainmenu a{
+font-family: 'Fjalla One', sans-serif;
+}
+a, .post-review--title{color: var(--main-primary-color);}
+.post-review--title{font-size:1.6em;}
+.sidebar{padding-left:8px; min-height:200px}
+.main,.g-navbar>span{max-width:1100px;margin:auto}
+.featured-posts{margin-bottom: 20px}
+.header-logo{max-height: 80px; margin:10px}
+.g-nav{margin:0!important}
+footer>*{max-width:1100px;margin:auto;}
+footer{background:#c6c6c6;margin-top:20px;color:#222}
+.footer-text,footer a{color:#222; }
+.g-navbar li ul li a{color:inherit}
+.mainmenu li a {color: #f4f4f4;padding: 22px 12px;font-weight:bold;transition:0.4s;}
+.mainmenu li a:hover{color:white}
+.post-title{font-size:2em;color: var(--main-primary-color);}
+.pagination li, .widget-tag a{
+background: var(--main-primary-color);
+color: white!important;
+margin: 2px;
+border: 0;
+transition:0.4s;
+border-radius:4px;
+}
+.pagination{text-align:center}
+.pagination li a{color:white;min-width:40px;padding:14px}
+.pagination a:hover,.pagination .active a {background:rgba(0.3,0.3,0.3,0.1)}
+.widget{padding: 0; margin-top: 20px;}
+.widget ul{list-style-type: none;display: block;
+margin:0;
+padding: 0;
+}
+.widget  .g-nav.vertical li a,
+.widget-links li a{
+padding: 12px;
+border-left: 4px solid #d5d5d5;
+background:#e6e6e6;
+color:#222;
+transition: 0.5s;
+display: inline-block;
+width: 100%;
+}
+.widget .g-nav.vertical li a:hover,
+.widget-links li a:hover{
+border-left: 4px solid var(--main-primary-color);
+background:white;
+}
+.widget-title{
+font-size:1.2em;color:white;background:var(--main-primary-color);padding:10px 15px;margin:5px 0
+}
+.post-review a:hover{color: var(--main-primary-color);}
+.widget-social-icons li a i:hover:before{background: var(--main-primary-color);}
+.g-nav li ul{border-width:0; background: var(--main-primary-color); margin-top:-2px}
+.footer-widget .widget{width:33%; display:inline-grid;min-width: 240px}
+

@@ -1,0 +1,13 @@
+{
+	"name":"Oceania",
+	"version":"1.0.0",
+	"description":"A simple blog tempelate.",
+	"url":"gilacms.com",
+	"options":{
+		"color":{
+			"type":"color","default":"#ffff00"
+		},
+		"footer-text":{
+		}
+	}
+}
