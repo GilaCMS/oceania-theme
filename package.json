@@ -5,7 +5,7 @@
 	"url":"gilacms.com",
 	"options":{
 		"color":{
-			"type":"color","default":"#ffff00"
+			"type":"color","default":"#3E7EFA"
 		},
 		"footer-text":{
 		}

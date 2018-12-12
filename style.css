@@ -1,8 +1,9 @@
 body{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}
-.page-title{font-size:2em;background: var(--main-primary-color);color:white;padding:10px}
+.page-title{font-size:2em;background: var(--main-primary-color);color:white;padding:10px;text-transform: uppercase;}
 .page-title, .post-title, .post-review--title, .widget-title, .mainmenu a{
 font-family: 'Fjalla One', sans-serif;
 }
+.page-title a{color:white}
 a, .post-review--title{color: var(--main-primary-color);}
 .post-review--title{font-size:1.6em;}
 .sidebar{padding-left:8px; min-height:200px}
