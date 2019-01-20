@@ -1,7 +1,7 @@
 {
 	"name":"Oceania",
-	"version":"1.0.2",
-	"description":"A simple blog tempelate.",
+	"version":"1.0.3",
+	"description":"A simple blog template.",
 	"url":"gilacms.com",
 	"options":{
 		"color":{

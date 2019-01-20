@@ -1,4 +1,3 @@
-
 <!-- Posts -->
 <div class="row">
     <div class="gl-9 wrapper">
@@ -6,9 +5,9 @@
     <div class="gm-12 row gap-8px post-review">
             <?php
             if($img=view::thumb_md($r['img'])){
-		       $title_gl='gs-6';
-		       echo '<div class="gs-6">';
-               echo '<img src="'.$img.'" style="width:100%; height:auto">';
+		       $title_gl='gm-6';
+		       echo '<div class="gm-6">';
+               echo '<img src="'.$img.'">';
 		       echo '</div>';
             } else $title_gl='gm-12';
             ?>
