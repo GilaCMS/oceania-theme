@@ -5,7 +5,7 @@ font-family: 'Fjalla One', sans-serif;
 }
 .page-title a{color:white}
 a, .post-review--title{color: var(--main-primary-color);}
-.post-review--title{font-size:1.6em;}
+.post-review--title{font-size:1.6em;font-weight: normal}
 .sidebar{padding-left:8px; min-height:200px}
 .main,.g-navbar>span{max-width:1100px;margin:auto}
 .featured-posts{margin-bottom: 20px}
@@ -17,7 +17,7 @@ footer{background:#c6c6c6;margin-top:20px;color:#222}
 .g-navbar li ul li a{color:inherit}
 .mainmenu li a {color: #f4f4f4;padding: 22px 12px;font-weight:bold;transition:0.4s;}
 .mainmenu li a:hover{color:white}
-.post-title{font-size:2em;color: var(--main-primary-color);}
+.post-title{font-size:2em;}
 .pagination li, .widget-tag a{
 background: var(--main-primary-color);
 color: white!important;
@@ -53,6 +53,7 @@ background:white;
 font-size:1.2em;color:white;background:var(--main-primary-color);padding:10px 15px;margin:5px 0
 }
 .post-review a:hover{color: var(--main-primary-color);}
+.post-review img{max-height: 250px;margin:auto}
 .widget-social-icons li a i:hover:before{background: var(--main-primary-color);}
 .g-nav li ul{border-width:0; background: var(--main-primary-color); margin-top:-2px}
 .footer-widget .widget{width:33%; display:inline-grid;min-width: 240px}

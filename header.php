@@ -18,7 +18,7 @@ $theme_color=gila::option('theme.color','#6b8f23');
     <!-- Navigation -->
     <nav class="inline-flex fullwidth g-navbar mainmenu">  
       <span class="fullwidth" style="display:flex">
-        <span class="page-title"><a href="<?=gila::config('base')?>"><?=gila::config('title')?></a></span>
+        <span class="page-title"><a href="<?=gila::base_url()?>"><?=gila::config('title')?></a></span>
         <?php view::menu(); ?>
       </span>
     </nav>
